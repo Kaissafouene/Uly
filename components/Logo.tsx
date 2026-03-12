@@ -11,7 +11,7 @@ export const Logo: React.FC = () => {
             >
                 <div className="absolute inset-0 bg-purple-500 blur-3xl opacity-20" />
                 <img
-                    src="/logo.png"
+                    src="/logo_uly.png"
                     alt="UlyTech Logo"
                     className="relative z-10 h-24 md:h-32 w-auto object-contain"
                 />
